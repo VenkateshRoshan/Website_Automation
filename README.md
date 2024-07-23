@@ -1,2 +1,2 @@
 # Website_Automation
-Automating website to download files using selenium, and machine learning to crack captcha
+Automating file downloads from a website using Selenium and employing machine learning to solve CAPTCHA.
